@@ -69,3 +69,11 @@ Num|Nome|Nota
 3 | Maria | 9
 
 Terminou a Tabela.
+---
+
+
+Digitar comandos especificos de uma linguagem:
+
+`System.out.println("Olá Mundo");`
+
+` Console.WriteLine("Olá Mundo em C#");`
