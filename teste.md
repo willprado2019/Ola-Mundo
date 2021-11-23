@@ -103,4 +103,13 @@ Pequeno trecho de código em uma imagem
 
 ![pequeno trecho de código em uma imagem](https://user-images.githubusercontent.com/50236148/143047258-dc0005f2-b0f2-42ed-91a7-dfe56a9a7363.jpg)
 
+---
+
+
+Usar Um Emoji:
+
+🖥️ 🖱️ ⌨️
+
+
+
 
