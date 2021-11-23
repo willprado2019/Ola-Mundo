@@ -22,3 +22,10 @@ outra linha:
 
 
 __*misturar*__ configurações
+
+
+Lista numerada:
+
+1. primeiro item
+1. segundo item
+1. terceiro item
