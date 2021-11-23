@@ -2,10 +2,23 @@ Estou aprendendo linguagem **markdown em negrito** no curso em vídeo de __Git e
 
 Está _palavra_ tambêm está em itálico. ~~texto com linha sobreposta~~ 
 
-#título de nível 1.
+# título de nível 1.
 
-##título de nível 2.
+## título de nível 2.
 
-###título de nível 3.
+### título de nível 3.
 
-####título de nível 4.
+#### título de nível 4.
+
+##### título de nível 5.
+
+###### título de nível 6.
+
+---
+
+outra linha:
+
+***
+
+
+__*misturar*__ configurações
