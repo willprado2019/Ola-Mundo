@@ -31,6 +31,7 @@ Lista numerada:
 1. terceiro item
    1. sub-item do terceiro item
    2. sub item do terceiro item
+   
 
 
 
@@ -40,4 +41,5 @@ Lista Demarcada:
 * Testando
 * Teste2
    * Sub-Item de Teste2
-* Teste 3. 
+* Teste 3
+- Teste 4
