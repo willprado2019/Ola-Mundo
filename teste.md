@@ -50,4 +50,4 @@ Lista De tarefas:
 - [ ] Teste 1
 - [ ] Teste 2
 - [ ] Teste 3
-- [ ] Teste 4
+- [x] Teste 4
