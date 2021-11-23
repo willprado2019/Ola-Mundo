@@ -111,5 +111,10 @@ Usar Um Emoji:
 🖥️ 🖱️ ⌨️
 
 
+[Lista de codigos de emoji no github](https://github.com/ikatyang/emoji-cheat-sheet)
 
+
+
+
+[Link do Emojipedia](https://emojipedia.org/)
 
