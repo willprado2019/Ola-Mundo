@@ -77,3 +77,30 @@ Digitar comandos especificos de uma linguagem:
 `System.out.println("Olá Mundo");`
 
 ` Console.WriteLine("Olá Mundo em C#");`
+---
+
+Digitar um trecho de um algoritimo:
+
+```
+int x = 5;
+
+System.out.println(x);
+
+if(x > 5) {
+
+System.out.println("X é maior que 5");
+
+}else{
+
+System.out.println("X é menor que 5");
+}
+
+```
+---
+
+Pequeno trecho de código em uma imagem
+
+
+![pequeno trecho de código em uma imagem](https://user-images.githubusercontent.com/50236148/143047258-dc0005f2-b0f2-42ed-91a7-dfe56a9a7363.jpg)
+
+
