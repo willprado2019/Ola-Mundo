@@ -1,3 +1,6 @@
+![download](https://user-images.githubusercontent.com/50236148/143042820-4207207e-e851-4324-8523-41785ac6a1f8.png)
+
+
 Estou aprendendo linguagem **markdown em negrito** no curso em vídeo de __Git e GitHub em negrito__.  Já está *palavra* está em itálico.
 
 Está _palavra_ tambêm está em itálico. ~~texto com linha sobreposta~~ 
@@ -51,3 +54,18 @@ Lista De tarefas:
 - [ ] Teste 2
 - [ ] Teste 3
 - [x] Teste 4
+
+
+![imagem qualquer](http://cdn.shopify.com/s/files/1/2425/3665/products/102-022_1200x1200.jpg?v=1574792050)
+---
+
+
+Usando Tabelas
+
+Num|Nome|Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 10
+3 | Maria | 9
+
+Terminou a Tabela.
